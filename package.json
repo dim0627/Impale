@@ -1,0 +1,8 @@
+{
+  "name": "impale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dim0627/impale.git",
+  "author": "Daisuke Tsuji <dim0627@gmail.com>",
+  "license": "MIT"
+}
